@@ -28,7 +28,7 @@ def extract_weather_info(data):
 # Main execution for Streamlit dashboard
 st.title("Weather Dashboard")
 
-api_key = "8151fd19e651a96ebe3e427717592b3a"
+api_key =" enter your APIkey"
 city = st.text_input("Enter city name:")
 if st.button("Get Weather"):
     weather_data = fetch_weather_data(city, api_key)
