@@ -17,10 +17,6 @@ This project demonstrates how to fetch data from a public API using Python and v
 - Seaborn
 - JSON
 
-## 📷 Sample Visualizations
-
-
-
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
